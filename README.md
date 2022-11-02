@@ -1,7 +1,7 @@
 # ic-13
 More practice with D3
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: https://ds4200-sec2-f22.github.io/ic-13-lesrene/
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to it above where you see https://ds4200-sec2-f22.github.io/ic-13-lesrene/. 
 
 1. Using the provided index.html, d3.js libray, an external CSS file (no styling should be included in your html file), and an external js file (no js code should be included in your html file), please do the following: 
    - Title your webpage "ic-13". 
